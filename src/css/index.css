@@ -1,0 +1,15 @@
+:root {
+  box-sizing: border-box;
+  font-size: 70%;
+  color: darkmagenta; }
+
+h1 {
+  color: darkred;
+  font-size: 1em;
+  margin-bottom: 3em; }
+
+buttton {
+  border: none;
+  color: darkgreen; }
+
+/*# sourceMappingURL=index.css.map */

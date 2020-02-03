@@ -1,0 +1,22 @@
+{
+  "name": "TypeScript_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "one": "browser-sync start --watch --server ./src ",
+    "two": "node-sass --watch --recursive --output ./src/css --source-map true --source-map-contents ./src/scss",
+    "three": "tsc -w",
+    "start": "npm-run-all -p one two"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "node-sass": "^4.13.1",
+    "tsc": "^1.20150623.0"
+  }
+}

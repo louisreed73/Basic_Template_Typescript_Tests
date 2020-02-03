@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "index.css",
+	"sources": [
+		"../scss/index.scss"
+	],
+	"sourcesContent": [
+		":root {\r\n    box-sizing:border-box;\r\n    font-size:70%;\r\n    color:darkmagenta;\r\n\r\n}\r\n\r\nh1 {\r\n    color:darkred;\r\n    font-size:1em;\r\n    margin-bottom:3em;\r\n}\r\n\r\nbuttton {\r\n    border:none;\r\n    color:darkgreen;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAC,UAAU;EACrB,SAAS,EAAC,GAAG;EACb,KAAK,EAAC,WAAW,GAEpB;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,EAAC,OAAO;EACb,SAAS,EAAC,GAAG;EACb,aAAa,EAAC,GAAG,GACpB;;AAED,AAAA,OAAO,CAAC;EACJ,MAAM,EAAC,IAAI;EACX,KAAK,EAAC,SAAS,GAClB"
+}
