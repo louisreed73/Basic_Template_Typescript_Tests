@@ -1,14 +1,17 @@
 :root {
   box-sizing: border-box;
-  font-size: 70%;
+  font-size: 80%;
   color: darkmagenta; }
+
+body {
+  font-family: 'Raleway', sans-serif; }
 
 h1 {
   color: darkred;
-  font-size: 1em;
+  font-size: 1.4rem;
   margin-bottom: 3em; }
 
-buttton {
+button {
   border: none;
   color: darkgreen; }
 
