@@ -1,6 +1,5 @@
-console.log("Holas!!!!");
-
-
 let {log:l}=console;
+l("Holas!!!!");
 
-l("Hola!!!!!")
+
+

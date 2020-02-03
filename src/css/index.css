@@ -7,12 +7,47 @@ body {
   font-family: 'Raleway', sans-serif; }
 
 h1 {
-  color: darkred;
-  font-size: 1.4rem;
+  color: #0f0101;
+  font-size: 1em;
   margin-bottom: 3em; }
+
+label {
+  display: block;
+  margin-bottom: 1rem;
+  cursor: pointer; }
+
+input {
+  border: 1px solid #2c97b8;
+  padding: .5rem;
+  width: 20rem;
+  margin-bottom: 1rem;
+  font-family: "Raleway", sans-serif; }
+
+.input_Desc {
+  margin-bottom: 2rem;
+  width: 30rem;
+  height: 10rem; }
 
 button {
   border: none;
-  color: darkgreen; }
+  background: darkgreen;
+  color: white;
+  padding: .5rem 2rem;
+  cursor: pointer;
+  margin-bottom: 2rem; }
+
+[class^='nuevo-proyecto'] {
+  padding: 1.4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: .9em;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+
+[class^='descripcion-proyecto'] {
+  padding: 0.25rem;
+  font-size: 1.1em;
+  text-align: left; }
+
+/*# sourceMappingURL=index.css.map */
 
 /*# sourceMappingURL=index.css.map */
